@@ -4,6 +4,10 @@
 import os
 from pathlib import Path
 
+# Judge brief: a deadpan one-line performance review an AI agent writes
+# about its human operator — review language ("Exceeds Expectations"),
+# fresh angle (vague goals, vanishing, taking credit), punch on the last word.
+# Deliberately avoids the stock jokes (coffee, meetings, reboots, unplugged).
 ENTRY = "Exceeds Expectations: sets vague goals, disappears for hours, then returns to take full credit for work he never actually read."
 
 MAX_CHARS = 140
